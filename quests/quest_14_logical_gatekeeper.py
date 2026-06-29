@@ -1,6 +1,3 @@
-# Quest 14: The Logical Gatekeeper
-# Concept: logical operators (and)
-
 age = int(input("Enter your age: "))
 gold = int(input("How many gold coins do you have? "))
 

@@ -1,6 +1,3 @@
-# Quest 15: The Nested Riddle
-# Concept: nested if statements
-
 direction = input("Do you go left or right? ").lower()
 
 if direction == "left":
